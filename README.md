@@ -1,2 +1,5 @@
-# irisFlowerIdentification.py
-This is my first ML project, the "hello world" of machine learning. This program identifies iris flowers based on a dataset of 150 observations      
+# Iris Flower Identification
+### A python program to identify Iris flowers
+
+This program is based on a tutorial by Jason Brownlee. It uses 150 observations on Iris flowers as a dataset,
+and uses the Support Vector Machine (SVC) model (although 5 other models are tested).
